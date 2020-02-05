@@ -1,0 +1,3 @@
+Options +FollowSymlinks
+
+ErrorDocument 404 /TP-LoicNdjoyi/filmsmaniac.com/ressources/templates/erreur404.php
